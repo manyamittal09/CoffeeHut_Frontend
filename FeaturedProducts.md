@@ -1,2 +1,3 @@
 - coffee latte - with extra milk and creme
 - coffee cappuccino  with chocochip cookie 
+- cafe mocha of $10 with 5% discount.
